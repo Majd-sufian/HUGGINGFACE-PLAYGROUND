@@ -2,6 +2,8 @@
 
 A playground project for experimenting with different Hugging Face models before integrating them into real-world projects. This monorepo contains a TypeScript backend API and a React + TypeScript frontend to test and interact with various AI models.
 
+![Hugging Face Playground Dashboard](dashboard.png)
+
 ## Purpose
 
 This project serves as a sandbox environment to:
